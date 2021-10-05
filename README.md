@@ -4,6 +4,8 @@
 
 The data was downloaded from [Our World in Data](https://ourworldindata.org/covid-deaths)
 
+NOTE: All the data and visualizations are according to the numbers until 26th July, 2021. 
+
 Cleaned the data in Excel to get the CovidDeaths.xlsx file.
 
 # Structure of the project
